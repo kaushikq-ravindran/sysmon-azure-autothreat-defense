@@ -1,9 +1,9 @@
 Automated ATT&CK Defense: Sysmon & Azure Integration Project for Cybersecurity Learning
 
 # Project Proponent
-Name: Kaushikq Ravindran
-Program: Masters in Software Engineering
-Institution: San Jose State University
+Name: Kaushikq Ravindran <br />
+Program: Masters in Software Engineering <br />
+Institution: San Jose State University <br />
 Portfolio: https://kaushikq-ravindran.github.io
 
 # Project Scope
